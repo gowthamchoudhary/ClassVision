@@ -1,0 +1,13 @@
+Flask==3.0.0
+Werkzeug==3.0.1
+requests
+gunicorn
+flask-socketio
+python-engineio
+python-socketio
+ultralytics
+opencv-python-headless
+fastapi==0.95.2
+uvicorn==0.22.0
+gunicorn==21.2.0
+# add any other libs your app needs, e.g. sqlalchemy, pydantic, requests...
